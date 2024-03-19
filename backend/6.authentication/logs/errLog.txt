@@ -1,0 +1,4 @@
+20240316	12:32:46	4fab7878-87f6-4ec2-b8dd-8be8ec132a60	TypeError: fsPromises.readFil is not a function
+20240316	13:58:05	1300047d-11c7-4966-aa6c-9f21c8a9935e	Error: Not allowed by CORS
+20240316	16:33:58	42f02564-cf63-4660-9508-5152f7ca9a46	TypeError: Cannot read properties of undefined (reading 'find')
+20240316	17:28:01	7d282daf-21f3-4d2f-aa68-8c60db0b126f	SyntaxError: Expected ':' after property name in JSON at position 7 (line 1 column 8)
