@@ -1,0 +1,25 @@
+20240316	12:31:34	afab7cb5-6993-4b73-83a0-85ddaae3f856	/new-page.html	GET
+20240316	12:31:35	74072e9b-889f-4e77-8e28-037abd70568c	/favicon.ico	GET
+20240316	12:32:46	f4faaf54-e354-4283-8bde-865e0dc90cc1	/new-page.html	GET
+20240316	13:34:33	e3161981-c1ab-4283-8c6c-1add0ec72b10	GET	undefined	/
+20240316	13:34:33	ac1191ae-0d9d-4cec-8183-930e4dfe3738	GET	undefined	/css/style.css
+20240316	13:37:53	09018d4e-5f09-4d92-97e3-b0bd6f619097	GET	undefined	/
+20240316	13:37:53	37850a77-d006-4159-b762-a4128e487045	GET	undefined	/css/style.css
+20240316	13:43:31	3432513b-7a55-4b6b-a8f3-ecf302fe0c3f	OPTIONS	https://www.google.de	/
+20240316	13:43:31	ef5f610b-a204-461e-9a3e-fac3f4d10403	GET	https://www.google.de	/
+20240316	13:49:22	ad712576-6993-49dc-aacf-03c517e86ba1	OPTIONS	https://www.google.de	/
+20240316	13:49:22	6bb479eb-7a4b-414b-bb83-ca4d9c72530d	GET	https://www.google.de	/
+20240316	13:49:37	328902ac-b47f-4c3e-92a0-a02a20667ca2	OPTIONS	https://www.google.de	/
+20240316	13:49:37	c7fa1439-a7e7-4bc8-8ede-6a7eed43c337	GET	https://www.google.de	/
+20240316	13:52:06	a7f9612c-a47e-4d6f-88d2-ca9fef62668d	GET	undefined	/css/style.css
+20240316	13:53:16	0072e897-f3b4-4577-add5-700e54cf3af0	GET	undefined	/
+20240316	13:53:17	733f938e-2949-446e-ab9a-a563a762c468	GET	undefined	/css/style.css
+20240316	13:58:05	c1dd3d3e-e8de-43ac-9c53-874a284e9316	GET	undefined	/
+20240316	13:58:51	64172b6b-270d-4bbe-aa41-94edf0bae960	GET	undefined	/
+20240316	13:58:51	6498b9f2-9863-4adf-98f0-3983435a5fab	GET	undefined	/css/style.css
+20240316	14:00:09	5026f4f8-71e6-4c61-8616-96c182ce1cba	GET	undefined	/dave
+20240316	14:00:09	c866a124-7cd1-4561-9dc8-3e25b378dd0f	GET	undefined	/css/style.css
+20240316	14:03:23	3b69dd02-c6f9-435a-9c0c-135ffdd4b223	GET	undefined	/dave
+20240316	14:03:24	185cce68-4945-46b6-8d9d-de2368e70033	GET	undefined	/css/style.css
+20240316	14:04:08	021bf651-fa02-4e93-ad29-201cfd5663ef	GET	undefined	/dave
+20240316	14:04:08	2d391aff-b401-4dcb-be5d-4fda9e68d7b9	GET	undefined	/css/style.css
